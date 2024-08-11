@@ -13,6 +13,7 @@ const VideoPlayer = () => {
     <VideoPlayerProvider>
       <StyledVideoContainer>
           <Video />
+          <BezelIcon />
       </StyledVideoContainer>
     </VideoPlayerProvider>
   );
