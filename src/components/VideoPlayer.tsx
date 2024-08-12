@@ -3,6 +3,7 @@ import { VideoPlayerProvider } from "../context";
 import Video from "./Video";
 import BezelIcon from "./BezelIcon";
 import ControlToolbar from "./ControlToolbar";
+import VolumeControl from "./VolumeControl";
 
 const StyledVideoContainer = styled.div`
   position: relative;
